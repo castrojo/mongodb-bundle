@@ -1,4 +1,3 @@
-mongodb-bundle
-==============
+# A simple MongoDB Cluster
 
-Juju bundle for a mongodb deployment
+Three shards. 
